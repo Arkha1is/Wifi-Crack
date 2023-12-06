@@ -1,6 +1,6 @@
 ## Acknowledgments
 - Original Author: Gurpreet ~ Singh ([@Gurpreet06](https://github.com/Gurpreet06))
-  The Original ptoject can be found [here](https://github.com/Gurpreet06/Wifi-Crack)
+  The Original project can be found [here](https://github.com/Gurpreet06/Wifi-Crack)
 - Updated by: Arkhalis ([@Arkha1is](https://github.com/Arkha1is))
 
 - The script is intended for use on Debian based systems, therefore compatibility with other systems is not officially supported or maintained.
